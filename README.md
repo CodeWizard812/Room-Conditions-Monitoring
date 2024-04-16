@@ -10,3 +10,5 @@ Then the data is sent to thinkspeak where it being displayed and can be accessed
 
 ThingSpeak Link :  https://thingspeak.com/channels/2358684
 Channel ID: 2358684
+
+Download video, presentation and report if needed.
